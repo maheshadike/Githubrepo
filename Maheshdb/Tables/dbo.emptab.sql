@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[emptab]
 (
-[eid] [int] NULL
+[empid] [int] NULL
 ) ON [PRIMARY]
 GO
